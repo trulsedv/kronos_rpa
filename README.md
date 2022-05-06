@@ -1,10 +1,12 @@
 # kronos_rpa
+
+## Haiku
 Use a tonne of time,  
 to save a bit of time,  
 when noting down my time.
 
 
-Tenkt flow i RPA:
+## Tenkt flow i RPA
 1. Lagre timer som .txt (copy paste fra Excel-ark til notepad f.eks.)
 2. Kjør .py script, scriptet stopper på innloggingssiden.
 4. Taste inn bruker navn og passord, og tast ENTER i Python-vinduet.
