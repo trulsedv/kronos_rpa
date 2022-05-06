@@ -1,10 +1,9 @@
 # kronos_rpa
 
 ## Haiku
-Use a tonne of time,  
-trying to save a bit of time,  
-when noting down my time.
-
+a tonne of time,  
+to save a bit of time,  
+when noting my time.
 
 ## Tenkt flow i RPA
 1. Lagre timer som .txt (copy paste fra Excel-ark til notepad f.eks.).
