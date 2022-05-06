@@ -2,7 +2,7 @@
 
 ## Haiku
 Use a tonne of time,  
-to save a bit of time,  
+trying to save a bit of time,  
 when noting down my time.
 
 
